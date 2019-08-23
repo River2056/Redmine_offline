@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,wBAAyB,CACzB,oBACF","file":"main.d8e51d2c.chunk.css","sourcesContent":["body {\r\n  background-color: #1e1e1e;\r\n  font-family: \"Orbitron\";\r\n}\r\n\r\n/* @font-face {\r\n  font-family: \"Orbitron\";\r\n  src: url(\"./Orbitron/Orbitron-Regular.ttf\");\r\n} */\r\n"]}
