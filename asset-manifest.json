@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/River2056/Redmine_offline/static/css/main.d8e51d2c.chunk.css",
-    "main.js": "/River2056/Redmine_offline/static/js/main.86aaf737.chunk.js",
-    "main.js.map": "/River2056/Redmine_offline/static/js/main.86aaf737.chunk.js.map",
-    "runtime~main.js": "/River2056/Redmine_offline/static/js/runtime~main.8f27c1bd.js",
-    "runtime~main.js.map": "/River2056/Redmine_offline/static/js/runtime~main.8f27c1bd.js.map",
-    "static/css/2.1e66eaca.chunk.css": "/River2056/Redmine_offline/static/css/2.1e66eaca.chunk.css",
-    "static/js/2.3e37a4d1.chunk.js": "/River2056/Redmine_offline/static/js/2.3e37a4d1.chunk.js",
-    "static/js/2.3e37a4d1.chunk.js.map": "/River2056/Redmine_offline/static/js/2.3e37a4d1.chunk.js.map",
-    "index.html": "/River2056/Redmine_offline/index.html",
-    "precache-manifest.c364223a775559397481985301dd5026.js": "/River2056/Redmine_offline/precache-manifest.c364223a775559397481985301dd5026.js",
-    "service-worker.js": "/River2056/Redmine_offline/service-worker.js",
-    "static/css/2.1e66eaca.chunk.css.map": "/River2056/Redmine_offline/static/css/2.1e66eaca.chunk.css.map",
-    "static/css/main.d8e51d2c.chunk.css.map": "/River2056/Redmine_offline/static/css/main.d8e51d2c.chunk.css.map"
+    "main.css": "/Redmine_offline/static/css/main.d8e51d2c.chunk.css",
+    "main.js": "/Redmine_offline/static/js/main.e60aa172.chunk.js",
+    "main.js.map": "/Redmine_offline/static/js/main.e60aa172.chunk.js.map",
+    "runtime~main.js": "/Redmine_offline/static/js/runtime~main.1212db11.js",
+    "runtime~main.js.map": "/Redmine_offline/static/js/runtime~main.1212db11.js.map",
+    "static/css/2.1e66eaca.chunk.css": "/Redmine_offline/static/css/2.1e66eaca.chunk.css",
+    "static/js/2.3e37a4d1.chunk.js": "/Redmine_offline/static/js/2.3e37a4d1.chunk.js",
+    "static/js/2.3e37a4d1.chunk.js.map": "/Redmine_offline/static/js/2.3e37a4d1.chunk.js.map",
+    "index.html": "/Redmine_offline/index.html",
+    "precache-manifest.dcf1a9f736cb71cdce7db191087dc633.js": "/Redmine_offline/precache-manifest.dcf1a9f736cb71cdce7db191087dc633.js",
+    "service-worker.js": "/Redmine_offline/service-worker.js",
+    "static/css/2.1e66eaca.chunk.css.map": "/Redmine_offline/static/css/2.1e66eaca.chunk.css.map",
+    "static/css/main.d8e51d2c.chunk.css.map": "/Redmine_offline/static/css/main.d8e51d2c.chunk.css.map"
   }
 }
